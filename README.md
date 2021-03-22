@@ -1,4 +1,4 @@
-# Voice Recognition based digit prediction
+# digit prediction using HMM
  Voice Recognition based digit prediction, developed using LPC analsis and HMM.
 Deveopment:
 Based on Cepstral coeffecients of phonemes codebook is generated and using it each word is divided into phonemes.
