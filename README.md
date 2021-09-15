@@ -1,5 +1,5 @@
-# digit prediction using HMM
- Voice Recognition based digit prediction, developed using LPC analsis and HMM.
+# Word Recognition using HMM
+ Voice Recognition based Word prediction, developed using LPC analsis and HMM.
 Deveopment:
 Based on Cepstral coeffecients of phonemes codebook is generated and using it each word is divided into phonemes.
 HMM is used to learn the underlying structure of each word and based on it model for each word is generated.
